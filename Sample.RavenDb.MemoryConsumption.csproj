@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoBogus" Version="2.11.0" />
+    <PackageReference Include="RavenDb.Client" Version="5.1.0-nightly-20201015-0935" />
+  </ItemGroup>
+
+</Project>
